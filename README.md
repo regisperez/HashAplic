@@ -1,4 +1,10 @@
 # HashAplic
 
-Programa para geração de Hashcode de arquivos XML para envio no sistema Aplic,do Tribunal de Contas do Estado do Mato Grosso (TCE-MT).
+Programa para geração de Hashcode de arquivos XML para envio no sistema Aplic,do Tribunal de Contas do Estado do Mato Grosso (TCE-MT). 
+
 Projeto desenvolvido em Java,na IDE Eclipse.
+
+# Instalação
+Para usar,basta baixar o arquivo HashAplic.jar e executar.
+
+
